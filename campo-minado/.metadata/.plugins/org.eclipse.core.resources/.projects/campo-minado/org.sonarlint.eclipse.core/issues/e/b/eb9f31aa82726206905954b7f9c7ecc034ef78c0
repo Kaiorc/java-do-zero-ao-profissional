@@ -1,0 +1,33 @@
+
+e
+java:S6212m"/Declare this local variable with "var" instead.(õŠĞÑÿÿÿÿÿ8İÚ·´0H.RINFOZ
+CODE_SMELL
+`
+java:S62121"/Declare this local variable with "var" instead.(êœ§…8İÚ·´0H/RINFOZ
+CODE_SMELL
+`
+java:S62128"/Declare this local variable with "var" instead.(º€Œ8İÚ·´0H0RINFOZ
+CODE_SMELL
+`
+java:S6212*"/Declare this local variable with "var" instead.(Ş©÷†8İÚ·´0H1RINFOZ
+CODE_SMELL
+e
+java:S6212"/Declare this local variable with "var" instead.(ÊËè¡ùÿÿÿÿ8İÚ·´0H2RINFOZ
+CODE_SMELL
+^
+java:S1602e",Remove useless curly braces around statement(ô¶ñ¤8İÚ·´0H3RMINORZ
+CODE_SMELL
+e
+java:S6212q"/Declare this local variable with "var" instead.(©ìããúÿÿÿÿ8İÚ·´0H4RINFOZ
+CODE_SMELL
+`
+java:S6212#"/Declare this local variable with "var" instead.(µ²Õš8İÚ·´0H5RINFOZ
+CODE_SMELL
+e
+java:S6212"/Declare this local variable with "var" instead.(¥ìÉÃùÿÿÿÿ8İÚ·´0H6RINFOZ
+CODE_SMELL
+e
+java:S6212n"/Declare this local variable with "var" instead.(¦—ùÿÿÿÿ8İÚ·´0H7RINFOZ
+CODE_SMELL
+V
+java:S5960"+Remove this assertion from production code.(ÊŒÆ¦8İÚ·´0H8RMAJORZBUG

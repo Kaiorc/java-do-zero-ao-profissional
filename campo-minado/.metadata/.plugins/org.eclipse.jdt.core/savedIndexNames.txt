@@ -1,0 +1,17 @@
+INDEX VERSION 1.131+C:\sdk\ide\campo-minado\.metadata\.plugins\org.eclipse.jdt.core
+3082131932.index
+2271683584.index
+2795610882.index
+1357150271.index
+2277507326.index
+4121143794.index
+2827986855.index
+1505870.index
+4128321238.index
+431576582.index
+678175525.index
+1151994124.index
+1341219747.index
+988261724.index
+1233981039.index
+3595213070.index
